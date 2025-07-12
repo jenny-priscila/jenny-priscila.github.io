@@ -15,5 +15,7 @@ body {
       justify-content: center; 
 }
 .foto img{
-    
+ width: 300px;
+  height: auto;
+  border-radius:px ;
 }
