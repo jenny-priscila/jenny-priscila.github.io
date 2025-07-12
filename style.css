@@ -38,3 +38,7 @@ flex-direction:column ;
   margin-top: 10px;
   color: black;
 }
+.infos p {
+  font-size: 18px;
+  margin: 10px 0;
+}
