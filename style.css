@@ -22,7 +22,7 @@ body {
   height: auto;
   border-radius: 10px;
 }
-.inicio{
+.infos{
 flex: 2;
 padding: 60px;
 display: flex;
