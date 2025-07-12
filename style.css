@@ -1,21 +1,24 @@
 body {
- background-color: rgba(202, 198, 198, 0.884);
-  margin: 0 ;
-   font-family: 'Times New Roman', Times, serif;
+  background-color: rgba(202, 198, 198, 0.884);
+  margin: 0;
+  font-family: 'Times New Roman', Times, serif;
 }
-.inicio{
-    display: flex;
-     height: 100vh;
+
+.inicio {
+  display: flex;
+  height: 100vh;
 }
-.foto{
-    flex: 1;
-    background-color: rgb(255, 240, 240);
-     display: flex;
-      align-items: center;
-      justify-content: center; 
+
+.foto {
+  flex: 1;
+  background-color: rgb(255, 255, 255);
+  display: flex;
+  align-items: center;
+  justify-content: center;
 }
-.foto img{
- width: 300px;
+
+.foto img {
+  width: 300px;
   height: auto;
-  border-radius:px ;
+  border-radius: px;
 }
