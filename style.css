@@ -1,5 +1,5 @@
 body {
- background-color: rgba(153, 71, 71, 0.884);
+ background-color: rgba(255, 255, 255, 0.884);
   margin: 0 ;
    font-family: 'Times New Roman', Times, serif;
 }
@@ -9,5 +9,11 @@ body {
 }
 .foto{
     flex: 1;
-    background-color: rgb(153, 77, 77);
+    background-color: rgb(255, 255, 255);
+     display: flex;
+      align-items: center;
+      justify-content: center; 
+}
+.foto img{
+    
 }
