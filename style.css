@@ -20,7 +20,7 @@ body {
 .foto img {
   width: 300px;
   height: auto;
-  border-radius: px;
+  border-radius: 10px;
 }
 .inicio{
 flex: 2;
