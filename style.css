@@ -1,5 +1,5 @@
 body {
- background-color: rgba(212, 52, 52, 0.884);
+ background-color: rgba(153, 71, 71, 0.884);
   margin: 0 ;
    font-family: 'Times New Roman', Times, serif;
 }
@@ -8,5 +8,6 @@ body {
      height: 100vh;
 }
 .foto{
-    
+    flex: 1;
+    background-color: rgb(153, 77, 77);
 }
